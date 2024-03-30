@@ -1,8 +1,11 @@
 # ระบบจัดการสินค้า (Product Management System) ด้วย Node.js และ Express
 Task Week 2 : Back-End Dev for Dev Init
-
+Authors
+assignment by @BorntoDev
+implementation by @Chuntawat
 เมื่อผู้ใช้ Run ระบบจัดการสินค้านี้ ด้วย Code
 #npm run dev
+
 ผู้ใช้จะสามารถเข้าไปอ่าน คู่มือการใช้งาน API ของระบบจัดการสินค้า ได้โดย display ผ่าน live server
 
 ![image](https://github.com/6431503009/Product-Management-System/assets/97873903/1aedc0b2-5f9c-43fa-b60f-c96740982de0)
